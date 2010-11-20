@@ -1,6 +1,7 @@
 
 *.coverage
 *.egg-info
+*.egg
 *.log
 *.pyc
 *.db
